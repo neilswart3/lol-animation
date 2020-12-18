@@ -1,0 +1,22 @@
+.background {
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+
+  &,
+  &__wrap,
+  &__img {
+    line-height: 0;
+  }
+
+  &__wrap {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    min-height: 110vh;
+    min-width: 110vw;
+  }
+}
