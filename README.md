@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# League of legends Animation challenge
 
 This is a little challenge project to recreate this animation:
 
