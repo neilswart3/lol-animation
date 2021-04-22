@@ -1,4 +1,4 @@
-# League of legends Animation challenge
+# League of legends animation challenge
 
 This is a little challenge project to recreate this animation:
 
